@@ -1,8 +1,9 @@
 canvas {
+    display: block;
+    margin: 0 auto 0 auto;
     border: 1px solid;
-    margin: 0 auto;
 }
 
-img {
+#offCanvas {
     display: none;
 }
